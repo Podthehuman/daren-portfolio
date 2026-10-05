@@ -1,140 +1,98 @@
 [
   {
-    "title": "Additional Cert of Completion - Paddayuman",
-    "file": "Additional-Cert-of-Completion-Paddayuman.pdf",
-    "category": "other",
-    "issuer": "Certificate of Completion"
-  },
-  {
-    "title": "Coursera 45LKID5FJB3",
-    "file": "Coursera 45LKID5FJB3.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Coursera 101X50NSB1UB",
-    "file": "Coursera 101X50NSB1UB.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Coursera FTCEBCXGUJUE",
-    "file": "Coursera FTCEBCXGUJUE.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Coursera OJBCRS6LU8KN",
-    "file": "Coursera OJBCRS6LU8KN.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Coursera QZLASRZ41GAF",
-    "file": "Coursera QZLASRZ41GAF.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Coursera RDDEZ68WR9IM",
-    "file": "Coursera RDDEZ68WR9IM.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Coursera SDR0JADXWV7C",
-    "file": "Coursera SDR0JADXWV7C.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Coursera TZC3BNPCB70",
-    "file": "Coursera TZC3BNPCB70.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Coursera UVI7ZM1W4W15",
-    "file": "Coursera UVI7ZM1W4W15.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Coursera XK7WJFKBQ4Z7",
-    "file": "Coursera XK7WJFKBQ4Z7.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Coursera XYNXT6B90R8E",
-    "file": "Coursera XYNXT6B90R8E.pdf",
-    "category": "other",
-    "issuer": "Coursera"
-  },
-  {
-    "title": "Cybersecurity 1",
-    "file": "Cybersecurity.1.png",
+    "title": "Automate Cybersecurity Tasks with Python",
+    "file": "Automate Cybersecurity Tasks with Python.pdf",
     "category": "cybersecurity",
-    "issuer": "Cybersecurity"
+    "issuer": "Coursera"
   },
   {
-    "title": "Cybersecurity 2",
-    "file": "Cybersecurity.2.png",
+    "title": "Connect and Protect Networks and Network Security",
+    "file": "Connect and Protect Networks and Network Security.pdf",
     "category": "cybersecurity",
-    "issuer": "Cybersecurity"
+    "issuer": "Coursera"
   },
   {
-    "title": "DICT Certificate \u2014 Daren Chris A. Paddayuman",
-    "file": "DICT certDAREN CHRIS A. PADDAYUMAN.pdf",
-    "category": "it",
-    "issuer": "DICT"
+    "title": "Crash CoursePython",
+    "file": "Crash CoursePython.pdf",
+    "category": "programming",
+    "issuer": "Coursera"
   },
   {
-    "title": "Google Cybersecurity Certificate Badge",
+    "title": "Cybersecurity Assets, Threats, and Vulnerabilities",
+    "file": "Cybersecurity Assets, Threats, and Vulnerabilities.pdf",
+    "category": "cybersecurity",
+    "issuer": "Coursera"
+  },
+  {
+    "title": "Cybersecurity Tools of the Trade Linux and SQL",
+    "file": "Cybersecurity Tools of the Trade Linux and SQL.pdf",
+    "category": "cybersecurity",
+    "issuer": "Coursera"
+  },
+  {
+    "title": "DATA PRIVACY PROTECTION COMPETENCY FRAMEWORK",
+    "file": "DATA PRIVACY PROTECTION COMPETENCY FRAMEWORK.pdf",
+    "category": "other",
+    "issuer": "Department of Information and Communications Technology - Philippines"
+  },
+  {
+    "title": "Foundations of Cybersecurity",
+    "file": "Foundations of Cybersecurity.pdf",
+    "category": "cybersecurity",
+    "issuer": "Coursera"
+  },
+  {
+    "title": "GoogleCybersecurityCertificate_Badge20250125-28-mzo937",
     "file": "GoogleCybersecurityCertificate_Badge20250125-28-mzo937.pdf",
     "category": "cybersecurity",
     "issuer": "Google"
   },
   {
-    "title": "Introduction to Cybersecurity Badge",
-    "file": "Introduction_to_Cybersecurity_Badge20240726-7-uz28z7.pdf",
+    "title": "Introduction to AI",
+    "file": "Introduction to AI.pdf",
+    "category": "other",
+    "issuer": "Coursera"
+  },
+  {
+    "title": "Introduction to Cybersecurity",
+    "file": "Introduction to Cybersecurity.png",
+    "category": "other",
+    "issuer": "CISCO Networking Academy"
+  },
+  {
+    "title": "Introduction to Data Science",
+    "file": "Introduction to Data Science.png",
+    "category": "data analytics",
+    "issuer": "CISCO Networking Academy"
+  },
+  {
+    "title": "Maximize Productivity With AI Tools",
+    "file": "Maximize Productivity With AI Tools.pdf",
     "category": "cybersecurity",
-    "issuer": "Cybersecurity"
+    "issuer": "coursera"
   },
   {
-    "title": "Introduction to Data Science Badge",
-    "file": "Introduction_to_Data_Science_Badge20240726-7-jh2wjo.pdf",
-    "category": "data",
-    "issuer": "Data & Analytics"
+    "title": "Play It Safe Manage Security Risks",
+    "file": "Play It Safe Manage Security Risks.pdf",
+    "category": "cybersecurity",
+    "issuer": "coursera"
   },
   {
-    "title": "E-Calendar Certificate",
-    "file": "Paddayuman, Daren Chris A._E-Calendar.pdf",
+    "title": "Put It to Work Prepare for Cybersecurity Jobs",
+    "file": "Put It to Work Prepare for Cybersecurity Jobs.pdf",
+    "category": "cybersecurity",
+    "issuer": "coursera"
+  },
+  {
+    "title": "Sound the Alarm Detection and Response",
+    "file": "Sound the Alarm Detection and Response.pdf",
+    "category": "cybersecurity",
+    "issuer": "coursera"
+  },
+  {
+    "title": "Use AI Responsibly",
+    "file": "Use AI Responsibly.pdf",
     "category": "other",
-    "issuer": "Certificate"
+    "issuer": "coursera"
   },
-  {
-    "title": "Zoom Certificate",
-    "file": "Paddayuman, Daren Chris A._Zoom.pdf",
-    "category": "other",
-    "issuer": "Certificate"
-  },
-  {
-    "title": "Paddayuman Certificate",
-    "file": "Paddayuman.png",
-    "category": "other",
-    "issuer": "Certificate"
-  },
-  {
-    "title": "Paddayuman Certificate 2",
-    "file": "Paddayuman2.png",
-    "category": "other",
-    "issuer": "Certificate"
-  },
-  {
-    "title": "Paddayuman Certificate 3",
-    "file": "Paddayuman3.png",
-    "category": "other",
-    "issuer": "Certificate"
-  }
 ]
