@@ -1,0 +1,5 @@
+Add your portrait here as:
+assets/profile.png
+
+The redesigned home page currently uses a styled editorial placeholder until your photo is added.
+Recommended: portrait orientation, clear head/torso shot, JPG or PNG.
